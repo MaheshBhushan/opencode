@@ -1,3 +1,5 @@
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-555555?style=flat) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
 <p align="center">
   <a href="https://opencode.ai">
     <picture>
